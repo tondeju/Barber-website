@@ -140,3 +140,5 @@ Projekt inspirowany nowoczesnymi stronami Premium Barber Shop, z naciskiem na el
 ## 👨‍💻 Autor
 
 Projekt wykonany jako ćwiczenie front-endowe z wykorzystaniem HTML, CSS oraz JavaScript.
+
+![Layout aplikacji](img/layout.png)
