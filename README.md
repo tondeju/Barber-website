@@ -4,6 +4,7 @@ Nowoczesna, responsywna strona internetowa dla salonu barberskiego wykonana przy
 
 ## 📸 Podgląd projektu
 
+![Layout aplikacji](img/layout.png)
 Strona zawiera:
 
 - Hero Section
@@ -140,5 +141,3 @@ Projekt inspirowany nowoczesnymi stronami Premium Barber Shop, z naciskiem na el
 ## 👨‍💻 Autor
 
 Projekt wykonany jako ćwiczenie front-endowe z wykorzystaniem HTML, CSS oraz JavaScript.
-
-![Layout aplikacji](img/layout.png)
